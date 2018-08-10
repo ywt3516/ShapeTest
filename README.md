@@ -7,7 +7,7 @@ shape的简单使用demo
 
 ##1.标签shape
 ```
-      1.shape 形状
+      shape 形状
         android:shape=["rectangle" | "oval" | "line" | "ring"]  
         shape的形状，默认为矩形，可以设置为矩形（rectangle）、椭圆形(oval)、线性形状(line)、环形(ring)
         当android:shape="ring"时：
